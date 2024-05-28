@@ -1,3 +1,9 @@
+---
+marp: true
+title: Advanced NLP using Pytorch
+paginate: true
+theme: uncover
+---
 # advanced_pytorch_nlp
 The topics that will be covered here are 
 * Seq to Seq model with the application of Encoder decoder fashion
